@@ -1,8 +1,14 @@
 #le menu
 
+<<<<<<< HEAD
     rep = input("1 : Ajouter \n 2 : Afficher la liste \n")
     rep = int(rep)
 #modif by Hari
+=======
+rep = input("1 : Ajouter \n 2 : Afficher la liste \n")
+rep = int(rep)
+print("nenin"#nenin)
+>>>>>>> fofana
 if rep == 1:
     nom = input("donner votre nom \n")
     prenoms = input("donner vos prenom \n")
